@@ -1,0 +1,3 @@
+- 👋 Salut, moi c'est @MylanADev
+- 👀 Je suis passionné d'informatique depuis tout petit. Mon père m'y a initié dès mon plus jeune âge !
+- 🌱 Je suis actuellement en train d'apprendre à faire des IHM en C#.
